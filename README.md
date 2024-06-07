@@ -2,22 +2,22 @@
 
 ### Template
 
-```markdown
+```Museu é criticado por trocar temporariamente arte famosa por uma imagem criada por inteligencia artificial .
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Comparação entre as artes uma pelo Pintor e uma criada por uma ia generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+AI Image Generator Powered by DALL-E 3 and Stable Diffusion XL
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+fazendo uma comparação entre as imagens criadas por ia e a as imagens que realmente foram pintadas ou elaboradas por design.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As imagens são extremamente realistas e cheia de detalhes. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Saber se uma imagem é uma fotografia, uma pintura ou uma imagem criada por Ia é um pouco complexo devido a qualidade das imagens que as Ias conseguem gerar.
 ```
 
